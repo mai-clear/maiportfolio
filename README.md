@@ -11,7 +11,21 @@ Here are some of the projects I've been working on and learning about:
 
 [![Watch the video](https://img.youtube.com/vi/putdBsAkBqc/maxresdefault.jpg)](https://youtu.be/putdBsAkBqcA)
 
+FE DE ERRATA: *Data Base Data from Brooklyn Bird Club
 
+*Images from 4 Birds from (https://ebird.org/home)
+
+Image House Sparrow: https://ebird.org/species/houspa/L1788971
+Sound from canto: https://www.xeno-canto.org/645667
+
+Image American Robin: https://ebird.org/species/amerob/L1788971
+Sound from canto: https://www.xeno-canto.org/543354
+
+Image Eastern Towhee: https://ebird.org/species/eastow/L1788971
+Sound from canto: https://www.xeno-canto.org/444954
+
+Image Northern Flicker:  https://ebird.org/species/norfli/L1788971
+Sound from canto: https://www.xeno-canto.org/645833
 
 [References for this work]( https://vimeo.com/121809291 )
 
