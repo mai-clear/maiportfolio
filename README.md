@@ -7,6 +7,9 @@ Here are some of the projects I've been working on and learning about:
 ## AR: **Music AR Joystick**
 [![Watch the video](https://img.youtube.com/vi/H-_5CoCeBDw/maxresdefault.jpg)](https://youtu.be/H-_5CoCeBDw)
 
+Used:
+Unity, Vuforia engine, Ableton Live , Arduino, and [Teenage engineering videolab](https://github.com/teenageengineering/videolab)
+
 ## Data visualization: **Bird Count**
 
 [![Watch the video](https://img.youtube.com/vi/putdBsAkBqc/maxresdefault.jpg)](https://youtu.be/putdBsAkBqcA)
@@ -30,6 +33,6 @@ Sound from canto: https://www.xeno-canto.org/645833
 [References for this work]( https://vimeo.com/121809291 )
 
 ## Creative coding: p5.js (javascript)
+![ p5 sketch](p5.gif)
 
-(https://preview.p5js.org/MaiClear/present/nrcjZPLVI)
 
