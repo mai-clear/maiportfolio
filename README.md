@@ -6,7 +6,7 @@ Here are some of the projects I've been working on and learning about:
 
 ## AR: **Music AR Joystick**
 [![Watch the video](https://img.youtube.com/vi/H-_5CoCeBDw/maxresdefault.jpg)](https://youtu.be/H-_5CoCeBDw)
-##### *Click in the image to see video*
+###### *Click in the image to see video*
 
 Used:
 Unity, Vuforia engine, Ableton Live , Arduino, and [Teenage engineering videolab](https://github.com/teenageengineering/videolab)
@@ -14,7 +14,7 @@ Unity, Vuforia engine, Ableton Live , Arduino, and [Teenage engineering videolab
 ## Data visualization: **Bird Count**
 
 [![Watch the video](https://img.youtube.com/vi/putdBsAkBqc/maxresdefault.jpg)](https://youtu.be/putdBsAkBqcA)
-##### *Click in the image to see video*
+###### *Click in the image to see video*
 
 FE DE ERRATA: *Data Base Data from Brooklyn Bird Club
 
